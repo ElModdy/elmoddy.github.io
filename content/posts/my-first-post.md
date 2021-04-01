@@ -9,3 +9,5 @@ Lista:
 1. ciao
 2. come
 3. stai
+
+Bischerina spacco tutto
